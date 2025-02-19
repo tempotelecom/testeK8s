@@ -28,3 +28,5 @@ O retorno deverá ser por email junto com uma documentação no corpo do email d
 Poderá ser utilizada uma conta gratuita free tier da aws ou até mesmo o Kind para execução do cluster
 O cluster deverá ter o control plain e dois nós.
 A pipeline a ser utilizada deverá ser o Github actions.
+Será avaliado a organização dos commits.
+Alterações após a entrega do código não serão consideradas.
