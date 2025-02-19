@@ -27,3 +27,4 @@ O teste tem um prazo de execução de uma semana a partir da data de envio.
 O retorno deverá ser por email junto com uma documentação no corpo do email das etapas para fazer o setup do cluster e ambientes
 Poderá ser utilizada uma conta gratuita free tier da aws ou até mesmo o Kind para execução do cluster
 O cluster deverá ter o control plain e dois nós.
+A pipeline a ser utilizada deverá ser o Github actions.
