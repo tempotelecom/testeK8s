@@ -23,10 +23,10 @@ Além da etapa da pipeline será avaliado os seguintes items
 - versionamento do codigo do terraform em um repositorio github
 - pipeline para o projeto terraform que aplica as alteraçoes no cluster ao mesclar no branch main
 
-O teste tem um prazo de execução de uma semana a partir da data de envio.
-O retorno deverá ser por email junto com uma documentação no corpo do email das etapas para fazer o setup do cluster e ambientes
-Poderá ser utilizada uma conta gratuita free tier da aws ou até mesmo o Kind para execução do cluster
-O cluster deverá ter o control plain e dois nós.
-A pipeline a ser utilizada deverá ser o Github actions.
-Será avaliado a organização dos commits.
+O teste tem um prazo de execução de uma semana a partir da data de envio.<br>
+O retorno deverá ser por email junto com uma documentação no corpo do email das etapas para fazer o setup do cluster e ambientes<br>
+Poderá ser utilizada uma conta gratuita free tier da aws ou até mesmo o Kind para execução do cluster<br>
+O cluster deverá ter o control plain e dois nós.<br>
+A pipeline a ser utilizada deverá ser o Github actions.<br>
+Será avaliado a organização dos commits.<br>
 Alterações após a entrega do código não serão consideradas.
